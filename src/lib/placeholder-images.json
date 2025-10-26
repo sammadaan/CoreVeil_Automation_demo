@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of Rajesh Kumar",
+      "imageUrl": "https://images.unsplash.com/photo-1715412507413-c7416b47cacb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMzY3NTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of Priya Sharma",
+      "imageUrl": "https://images.unsplash.com/photo-1524255684952-d7185b509571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmZW1hbGUlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE0MTA4NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of Amit Patel",
+      "imageUrl": "https://images.unsplash.com/photo-1656338997878-279d71d48f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMzY3NTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    }
+  ]
+}
