@@ -49,7 +49,7 @@ export default function Header() {
                 <DockLabel>Coreveil</DockLabel>
                 <Link href="/" className="w-full h-full flex items-center justify-center text-muted-foreground hover:text-foreground">
                     <DockIcon>
-                        <Image src="/logo.jpg" alt="Coreveil Logo" width={40} height={40} className="object-cover rounded-md" />
+                        <Image src="/logo.jpeg" alt="Coreveil Logo" width={40} height={40} className="object-cover rounded-md" />
                     </DockIcon>
                 </Link>
             </DockItem>
