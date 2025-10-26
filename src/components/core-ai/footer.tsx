@@ -24,7 +24,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center space-x-3 mb-4">
               <div className="relative w-10 h-10 bg-secondary rounded-lg flex items-center justify-center ring-1 ring-border overflow-hidden">
-                  <Image src="/logo.jpg" alt="Coreveil Logo" width={40} height={40} className="object-cover" />
+                  <Image src="/logo.jpeg" alt="Coreveil Logo" width={40} height={40} className="object-cover" />
               </div>
               <span className="text-xl font-bold text-gradient-animate">Coreveil Automation</span>
             </div>
